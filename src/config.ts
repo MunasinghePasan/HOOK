@@ -9,31 +9,31 @@ export const team = [
     name: "Nirmal Kalubowila",
     role: "Scrum Master",
     initials: "NK",
-    photo: "public/images/team/Nirmal.jpeg",
+    photo: "images/team/Nirmal.jpeg",
   },
   {
     name: "Pasan Munasinghe",
     role: "Product Owner",
     initials: "PM",
-    photo: "public/images/team/Pasan.png",
+    photo: "images/team/Pasan.png",
   },
   {
     name: "Rumeth Renuja",
     role: "Developer",
     initials: "RR",
-    photo: "public/images/team/Rumeth.jpeg",
+    photo: "images/team/Rumeth.jpeg",
   },
   {
     name: "Sanuthmi Rasanga",
     role: "Developer",
     initials: "SR",
-    photo: "public/images/team/Rasanga.jpeg",
+    photo: "images/team/Rasanga.jpeg",
   },
   {
     name: "Nindya Kotuwila",
     role: "Developer",
     initials: "NK",
-    photo: "public/images/team/Nindya.jpeg",
+    photo: "images/team/Nindya.jpeg",
   },
 ];
 
